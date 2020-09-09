@@ -10,10 +10,8 @@ Just a small boy with dreams
 
 
 
-![logo](https://github.com/akionsight/AkIonSight/blob/master/AkIonsight.jpg)
-
-
 currently 13 and pretty good at python. a bit of HTML, CSS here and there
+
 
 
 ![made_by_akionsight](https://img.shields.io/badge/Made%20By-AkIonSight-red)
