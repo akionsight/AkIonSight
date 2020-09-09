@@ -9,9 +9,10 @@ Just a small boy with dreams
 [![most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AkIonSight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 currently 13 and pretty good at python. a bit of HTML, CSS here and there
 
+**Discord**: akionsight#8281
 
+**Stack Overflow**: https://stackoverflow.com/users/13379309/akionsight
 
 ![made_by_akionsight](https://img.shields.io/badge/Made%20By-AkIonSight-red)
