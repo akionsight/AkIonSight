@@ -11,7 +11,7 @@ Just a small boy with dreams
 
 currently 13 and pretty good at python. a bit of HTML, CSS here and there
 
-**Discord**: akionsight#8281
+**Discord**: AkIonSight#8281
 
 **Stack Overflow**: https://stackoverflow.com/users/13379309/akionsight
 
