@@ -9,7 +9,7 @@ Just a small boy with dreams
 [![most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AkIonSight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-currently 13 and pretty good at python. a bit of HTML, CSS here and there
+currently 13 and pretty good at python. a bit of HTML, CSS and JS here and there
 
 **Discord**: AkIonSight#8281
 
