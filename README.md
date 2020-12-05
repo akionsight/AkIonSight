@@ -1,4 +1,6 @@
-### Hi there person
+### Hi there visitor
+
+thanks for visiting my profile.
 
 I am Harsh Pandey aka AkIonSight. 
 
