@@ -11,7 +11,7 @@ Just a small boy with dreams
 [![most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AkIonSight&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-currently 13 and pretty good at python. a bit of HTML, CSS and JS here and there
+currently 13 and pretty good at python. a bit of HTML, CSS and JS here and there. Learning flutter rn
 
 **Discord**: AkIonSight#8281
 
