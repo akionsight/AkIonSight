@@ -8,7 +8,7 @@ Just a small boy with dreams
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=AkIonSight&show_icons=true&theme=tokyonight) 
 
-[![most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AkIonSight)](https://github.com/anuraghazra/github-readme-stats)
+[![most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AkIonSight&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 currently 13 and pretty good at python. a bit of HTML, CSS and JS here and there
