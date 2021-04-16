@@ -10,6 +10,7 @@ Just a small boy with dreams
 
 [![most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AkIonSight&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+Find me on:
 
 **Discord**: AkIonSight#8281
 
