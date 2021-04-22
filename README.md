@@ -14,6 +14,8 @@ Find me on:
 
 **Discord**: AkIonSight#8281
 
+**Dev To**: https://dev.to/akionsight/
+
 **Stack Overflow**: https://stackoverflow.com/users/13379309/akionsight
 
 **Twitter**: https://twitter.com/ak_sight
