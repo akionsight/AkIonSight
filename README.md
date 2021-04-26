@@ -6,7 +6,7 @@ I am Harsh Pandey aka AkIonSight.
 
 Just a small boy with dreams 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akionsight&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=AkIonSight&show_icons=true&theme=tokyonight) 
 
