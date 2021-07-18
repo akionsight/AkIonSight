@@ -20,6 +20,8 @@ Find me on:
 
 **Twitter**: https://twitter.com/ak_sight
 
+**Find my articles at**: https://dev.to/akionsight/
+
 ![Profile Views](https://komarev.com/ghpvc/?username=akionsight)
 
 ![made_by_akionsight](https://img.shields.io/badge/Made%20By-AkIonSight-red)
