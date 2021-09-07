@@ -12,7 +12,7 @@ Just a small boy with dreams
 
 Find me on:
 
-**Discord**: AkIonSight#8281
+<!-- **Discord**: AkIonSight#8281, i left discord --> 
 
 **Stack Overflow**: https://stackoverflow.com/users/13379309/akionsight
 
