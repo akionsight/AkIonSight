@@ -2,7 +2,7 @@
 
 thanks for visiting my profile.
 
-I am Harsh Pandey aka AkIonSight. 
+I am Harsh Pandey aka AkIonSight (pronounced AK-ion-sight) 
 
 Just a small boy with dreams 
 
