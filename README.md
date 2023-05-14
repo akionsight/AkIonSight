@@ -16,8 +16,6 @@ Find me on:
 
 **Stack Overflow**: https://stackoverflow.com/users/13379309/akionsight
 
-**Mastodon**: https://mastodon.technology/@akionsight
-
 **Find my articles at**: https://dev.to/akionsight/
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akionsight)
